@@ -1,7 +1,7 @@
 CHANGES
 *******
 
-0.9.10 (unreleased)
+0.9.10 (2012-11-02)
 ===================
 
 - Initial release.
