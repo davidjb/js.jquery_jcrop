@@ -29,6 +29,7 @@ setup(
     keywords='',
     author='Fanstatic Developers',
     author_email='fanstatic@googlegroups.com',
+    url='https://github.com/davidjb/js.jquery_jcrop',
     license='BSD',
     packages=find_packages(),namespace_packages=['js'],
     include_package_data=True,
