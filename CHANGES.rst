@@ -1,8 +1,8 @@
 CHANGES
 *******
 
-0.9.10-1 (unreleased)
-=====================
+0.9.12 (2013-02-13)
+===================
 
 - Updated to new version of library.
   [davidjb]
