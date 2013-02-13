@@ -4,7 +4,8 @@ CHANGES
 0.9.10-1 (unreleased)
 =====================
 
-- Nothing changed yet.
+- Updated to new version of library.
+  [davidjb]
 
 
 0.9.10 (2012-11-02)
